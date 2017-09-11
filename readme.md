@@ -46,3 +46,6 @@
 	<li>All jQuery libraries CSS styles placed in <strong>app/sass/_libs.sass</strong>;</li>
 	<li>Rename <strong>ht.access</strong> to <strong>.htaccess</strong> before place it in your web server. This file contain rules for files caching on web server.</li>
 </ol>
+
+<h2></h2>
+<p>Install node >{next step}>  npm i -g gulp npm-check-updates >{next step} > ncu (if you need updates, do it ( ncu - a, ncu - u) >{next step} > npm i (after will be appear a folder node_modules). Next you can install GIT and then install Bower (npm i -g bower). Great! Now we can use Bower to install new packages(file .bowerrc has address where news packeges will be install) for example {bower i fotorama}.</p>
